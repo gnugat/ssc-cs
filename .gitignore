@@ -1,0 +1,7 @@
+# Temporary Files
+/.php-cs-fixer.cache
+
+# Vendor Files
+/composer.lock
+/composer.phar
+/vendor/
