@@ -28,11 +28,6 @@
             "Ssc\\Cs\\": "src"
         }
     },
-    "autoload-dev": {
-        "psr-4": {
-            "dev\\Ssc\\Cs\\": "dev"
-        }
-    },
     "config": {
         "sort-packages": true
     }
